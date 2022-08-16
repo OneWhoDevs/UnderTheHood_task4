@@ -24,6 +24,7 @@ FORWARD PROPOGATION
 BACKWARD PROPOGATION
 
   training is done via gradient descent algorithm. th cost function used is  ![image](https://user-images.githubusercontent.com/101567399/184948812-f6b7a607-d687-484c-9694-69ac1610f396.png)
+  here a is A2 and Y is obtained from the image labels.
   the derivatives for each parameters is calculated and applied to the parameters as learningrate* differential
   
   The training of the model can be visualised from the plot of the model training:
